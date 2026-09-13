@@ -1,3 +1,4 @@
+<img width="720" height="1280" alt="1000106419" src="https://github.com/user-attachments/assets/eb026013-d069-45a5-9ec6-afe0df61364e" />
 <div align="center">
 
 ## Knight Bot Mini
